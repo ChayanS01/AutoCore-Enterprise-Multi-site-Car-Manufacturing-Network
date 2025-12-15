@@ -1,3 +1,8 @@
+
+<img width="1314" height="706" alt="autocore" src="https://github.com/user-attachments/assets/009730b6-81f6-429a-9c25-87261bb43f94" />
+
+
+
 # AutoCore-Enterprise-Multi-site-Car-Manufacturing-Network
 A complete IPv4-based enterprise network for a car manufacturing company with HQ, a manufacturing plant, and a dealership site. I implemented VLANs, OSPF for inter-site routing, HSRP, EtherChannel for redundancy, port security, ACLs, DHCP/DNS/NAT services. This project demonstrates all major CCNA concepts in one real-world automotive environment.
 
